@@ -12,3 +12,4 @@ c:\Users\Adam.lysen\Desktop\PROG 2\Del01\Del01\obj\Debug\net8.0\refint\Del01.dll
 c:\Users\Adam.lysen\Desktop\PROG 2\Del01\Del01\obj\Debug\net8.0\Del01.pdb
 c:\Users\Adam.lysen\Desktop\PROG 2\Del01\Del01\obj\Debug\net8.0\Del01.genruntimeconfig.cache
 c:\Users\Adam.lysen\Desktop\PROG 2\Del01\Del01\obj\Debug\net8.0\ref\Del01.dll
+c:\Users\Adam.lysen\Desktop\PROG 2\Del01\Del01\obj\Debug\net8.0\Del01.sourcelink.json
